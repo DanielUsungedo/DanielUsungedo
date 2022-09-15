@@ -4,7 +4,7 @@ o">Content Writer</a></h1>
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Data Analysis and Visualization of CO2 Emission </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CO2 Emission](https://github.com/DanielUsungedo/CO2-Emission)
 - <b>Customer Retention Data Analytics</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Data Analysis of dataset to show level of Diversity and Inclusion</b>
