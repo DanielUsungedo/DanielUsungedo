@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel Usungedo! <br/><a <a href="https://www.linkedin.com/in/daniel-thompson-usungedo-a37739196/">Data Analyst</a> <a href="https://muckrack.com/daniel-usungedo-1/portfoli![Uploading icons8-certification-64.png…]()
+<h1>Hi, I'm Daniel Usungedo! <br/><a <a href="https://www.linkedin.com/in/daniel-thompson-usungedo-a37739196/">Data Analyst</a> & <a href="https://muckrack.com/daniel-usungedo-1/portfoli![Uploading icons8-certification-64.png…]()
 o">Content Writer</a></h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
@@ -21,9 +21,9 @@ o">Content Writer</a></h1>
 
 <h2>✨ CERTIFICATIONS</h2>
 
-- [PWC Data Analytics and Visualization with SQL and Power BI](https://github.com/DanielUsungedo/DanielUsungedo/files/9578439/DANIEL.USUNGEDO.POWER.BI.CERTIFICATE.pdf)
+- [PWC Data Analytics and Visualization with SQL and Power BI](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_2PKMNNxGn3Tvzuh2c_1662501382255_completion_certificate.pdf)
 
-- [Data Analysis with Accenture](https://github.com/DanielUsungedo/DanielUsungedo/files/9578436/DANIEL.USUNGEDO.ACCENTURE.CERTIFICATE.pdf)
+- [Data Analysis with Accenture](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_2PKMNNxGn3Tvzuh2c_1663249728887_completion_certificate.pdf)
 
 - [Introduction to Google SEO](https://github.com/DanielUsungedo/DanielUsungedo/files/9578508/Introduction.to.google.SEO.pdf)
 
