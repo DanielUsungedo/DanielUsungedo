@@ -1,4 +1,5 @@
-<h1>Hi, I'm Daniel Usungedo! <br/><a <a href="https://www.linkedin.com/in/daniel-thompson-usungedo-a37739196/">Data Analyst</a> <a href="https://muckrack.com/daniel-usungedo-1/portfolio">Content Writer</a></h1>
+<h1>Hi, I'm Daniel Usungedo! <br/><a <a href="https://www.linkedin.com/in/daniel-thompson-usungedo-a37739196/">Data Analyst</a> <a href="https://muckrack.com/daniel-usungedo-1/portfoli![Uploading icons8-certification-64.png…]()
+o">Content Writer</a></h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
@@ -18,25 +19,27 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 CERTIFICATIONS</h2>
+<h2>✨ CERTIFICATIONS</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [PWC Data Analytics and Visualization with SQL and Power BI](https://github.com/DanielUsungedo/DanielUsungedo/files/9578439/DANIEL.USUNGEDO.POWER.BI.CERTIFICATE.pdf)
 
+- [Data Analysis with Accenture](https://github.com/DanielUsungedo/DanielUsungedo/files/9578436/DANIEL.USUNGEDO.ACCENTURE.CERTIFICATE.pdf)
+
+- [Introduction to Google SEO](https://github.com/DanielUsungedo/DanielUsungedo/files/9578508/Introduction.to.google.SEO.pdf)
+
+- [Project Management Specialization](https://github.com/DanielUsungedo/DanielUsungedo/files/9578443/PM.SPECIALIZATION.pdf)
+
+- [Strategic Innovation, Managing Innovation Initiatives](https://github.com/DanielUsungedo/DanielUsungedo/files/9578441/16CI020682_Strategic.Innovation.Managing.Innovation.Initiatives.pdf)
+
+- [Supply Chain Logistics](https://github.com/DanielUsungedo/DanielUsungedo/files/9578444/SUPPLY.CHAIN.LOGISTICS.pdf)
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/AkanThomson
+
+[linkedin]: https://www.linkedin.com/in/daniel-thompson-usungedo-a37739196/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
