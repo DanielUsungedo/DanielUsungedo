@@ -24,7 +24,7 @@
 - [Supply Chain Logistics](https://github.com/DanielUsungedo/DanielUsungedo/files/9578444/SUPPLY.CHAIN.LOGISTICS.pdf)
 
 <h2>🌱 I’m currently learning</h2>
-- [R programming.]
+- R programming.
  
 <h2> 🤳 Connect with me:</h2>
 
