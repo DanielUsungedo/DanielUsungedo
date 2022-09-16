@@ -22,6 +22,10 @@
 - [Strategic Innovation, Managing Innovation Initiatives](https://github.com/DanielUsungedo/DanielUsungedo/files/9578441/16CI020682_Strategic.Innovation.Managing.Innovation.Initiatives.pdf)
 
 - [Supply Chain Logistics](https://github.com/DanielUsungedo/DanielUsungedo/files/9578444/SUPPLY.CHAIN.LOGISTICS.pdf)
+- 
+<h2>🌱 I’m currently learning</h2>
+ R programming.
+ 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -31,9 +35,6 @@
 
 [linkedin]: https://www.linkedin.com/in/daniel-thompson-usungedo-a37739196/
 
-
-<h2>🌱 I’m currently learning</h2>
- R programming.
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
