@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel Usungedo! <br/><a <a href="https://www.linkedin.com/in/daniel-thompson-usungedo-a37739196/">Data Analyst</a> & <a href="https://muckrack.com/daniel-usungedo-1/portfoli![Uploading icons8-certification-64.png…]()
+<h1>Hi, I'm Daniel Usungedo! <br/><a <a href="https://www.linkedin.com/in/daniel-thompson-usungedo-a37739196/">Data Analyst</a> & <a href="https://muckrack.com/daniel-usungedo-1/portfolio">Content Writer</a>
 o">Content Writer</a></h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
