@@ -31,7 +31,8 @@
 
 [linkedin]: https://www.linkedin.com/in/daniel-thompson-usungedo-a37739196/
 
-🌱 I’m currently learning R programming.
+<h2>🌱 I’m currently learning</h2>
+ R programming.
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
