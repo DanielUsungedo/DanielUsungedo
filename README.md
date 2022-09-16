@@ -8,7 +8,7 @@ o">Content Writer</a></h1>
 - <b>Customer Retention Data Analytics</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Data Analysis of dataset to show level of Diversity and Inclusion</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Diversity & Inclusion Dashboard](https://github.com/DanielUsungedo/Diversity-and-Inclusion)
 
 <h2>✨ CERTIFICATIONS</h2>
 
