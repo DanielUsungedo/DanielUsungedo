@@ -31,6 +31,7 @@
 
 [linkedin]: https://www.linkedin.com/in/daniel-thompson-usungedo-a37739196/
 
+
 <h2>🌱 I’m currently learning</h2>
  R programming.
 
