@@ -5,7 +5,7 @@
 - <b>Data Analysis and Visualization of CO2 Emission </b>
   - [CO2 Emission](https://github.com/DanielUsungedo/CO2-Emission)
 - <b>Customer Retention Data Analytics</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Customer Retention](https://github.com/DanielUsungedo/Customer-Retention)
 - <b>Data Analysis of dataset to show level of Diversity and Inclusion</b>
   - [Diversity & Inclusion Dashboard](https://github.com/DanielUsungedo/Diversity-and-Inclusion)
 
